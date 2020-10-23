@@ -1,6 +1,7 @@
 ### Hi there 👋
+I'm a Computer Science major student at UCLA. I love coding small projects in various areas. <br>
+I also blog about some programming ideas or insights about my projects. [Have a look!](https://jackzzhao.com)
 
-> Just look at the code.
 <!--
 **JackZhao98/jackzhao98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
